@@ -1,0 +1,26 @@
+{
+  "name": "collapsible-datatable",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "primeicons": "^4.1.0",
+    "primevue": "^3.4.0",
+    "roboto-fontface": "*",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "sass": "^1.32.0",
+    "sass-loader": "^10.0.0",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.2.3"
+  }
+}
